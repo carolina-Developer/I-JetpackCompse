@@ -1,2 +1,2 @@
-# androidStudioI
-Aplicación diseñada para comprender los conceptos fundamentales en Android Studio. (Primera actividad: Textos, botones, box y dropdown)
+Adroid Studio
+Application designed to understand the fundamental concepts in Android Studio (First activity: Texts, buttons, box and dropdown).
